@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "use_item_cigarette": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:potion"
+                    ],
+                    "nbt": "{tag:mglass}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "items:used-item"
+    }
+}

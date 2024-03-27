@@ -1,0 +1,1 @@
+give @s potion{display:{Name:'{"text":"Saw","color":"#FF9100","bold":true}',Lore:['{"text":"Makes the shotgun do double damage.","color":"light_purple","italic":true}']},HideFlags:32,tag:saw,CustomModelData:4} 1

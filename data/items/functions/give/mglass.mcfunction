@@ -1,0 +1,1 @@
+give @s potion{display:{Name:'{"text":"Magnifying glass","color":"aqua","bold":true}',Lore:['{"text":"Reveals the bullet in the chamber for you.","color":"light_purple","italic":true}']},HideFlags:32,tag:mglass,CustomModelData:0} 1

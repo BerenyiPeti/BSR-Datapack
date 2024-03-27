@@ -1,0 +1,1 @@
+data modify block 11 -55 0 Items set from entity @s Inventory

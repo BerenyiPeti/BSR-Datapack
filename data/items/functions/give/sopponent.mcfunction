@@ -1,0 +1,1 @@
+give @s potion{display:{Name:'{"text":"Shoot opponent","color":"dark_red","bold":true}'},HideFlags:32,tag:sopponent,CustomModelData:7} 1

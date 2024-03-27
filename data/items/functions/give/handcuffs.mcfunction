@@ -1,0 +1,1 @@
+give @s potion{display:{Name:'{"text":"Handcuffs","color":"gray","bold":true}',Lore:['{"text":"Skips the opponent\'s next turn.","color":"light_purple","italic":true}']},HideFlags:32,tag:handcuffs,CustomModelData:3} 1

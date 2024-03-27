@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "use_item_beer": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:potion"
+          ],
+          "nbt": "{tag:beer}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "items:used-item"
+  }
+}
