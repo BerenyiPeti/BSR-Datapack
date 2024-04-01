@@ -1,1 +1,1 @@
-give @s potion{display:{Name:'{"text":"Shoot opponent","color":"dark_red","bold":true}'},HideFlags:32,tag:sopponent,CustomModelData:7} 1
+item replace entity @s hotbar.1 with potion{display:{Name:'{"text":"Shoot opponent","color":"dark_red","bold":true}'},HideFlags:32,tag:sopponent,CustomModelData:7} 1

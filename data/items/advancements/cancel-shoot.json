@@ -13,6 +13,6 @@
         }
     },
     "rewards": {
-        "function": "bsr-main:use-item/cancel"
+        "function": "bsr-main:use-gun/cancel"
     }
 }

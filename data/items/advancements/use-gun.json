@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "use_item_cigarette": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:potion"
+          ],
+          "nbt": "{tag:shoot}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "bsr-main:use-gun/use-gun"
+  }
+}

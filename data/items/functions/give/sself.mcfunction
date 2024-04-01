@@ -1,1 +1,1 @@
-give @s potion{display:{Name:'{"text":"Shoot yourself","color":"green","bold":true}'},HideFlags:32,tag:sself,CustomModelData:6} 1
+item replace entity @s hotbar.0 with potion{display:{Name:'{"text":"Shoot yourself","color":"green","bold":true}'},HideFlags:32,tag:sself,CustomModelData:6} 1

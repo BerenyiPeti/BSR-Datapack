@@ -4,6 +4,6 @@ function items:give/handcuffs
 function items:give/saw
 function items:give/mglass
 function items:give/shoot
-function items:give/sself
-function items:give/sopponent
-function items:give/cancel
+# function items:give/sself
+# function items:give/sopponent
+# function items:give/cancel
